@@ -1,0 +1,23 @@
+# Virtual Environments
+venv/
+.venv/
+env/
+
+# Python bytecode
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Local Databases
+*.db
+*.db-wal
+*.db-shm
+
+# Local credentials
+config.json
+
+# IDE & OS
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
